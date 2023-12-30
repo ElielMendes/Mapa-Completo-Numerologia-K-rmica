@@ -1,1 +1,1 @@
-# Mapa-Completo-Numerologia-K-rmica
+# Mapa-Completo-Numerologia-Karmica
