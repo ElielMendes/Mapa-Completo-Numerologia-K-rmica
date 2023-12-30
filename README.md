@@ -1,0 +1,1 @@
+# Mapa-Completo-Numerologia-K-rmica
