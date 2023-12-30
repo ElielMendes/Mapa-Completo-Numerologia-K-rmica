@@ -1,2 +1,3 @@
-#Mapa Completo da Numerologia kármica
+#NK
+
 Cálculo completo do mapa da numerologia kármica em python
