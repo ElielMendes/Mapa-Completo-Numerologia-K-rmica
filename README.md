@@ -1,4 +1,4 @@
-# 🌟 Projeto de Numerologia Kármica 🌌
+# 🌟 Mapa Completo da Numerologia Kármica 🌌
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
