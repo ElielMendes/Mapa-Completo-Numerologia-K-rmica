@@ -10,27 +10,27 @@ Este projeto é um programa Python que calcula o mapa completo da numerologia k�
 
 O programa usa a data de nascimento fornecida para calcular todos os aspectos da numerologia kármica:
 
-Personalidade Interna 
-Personalidade Externa
-Personalidade Geral 
-Personalidade Oculta 
-Desafio 
-Regência de Vida Anterior 
-Missão de Vida Atual
-Força do Desafio 
-Força da Missão 
-Abalo
-Desafio Oculto 
-Idade de Liberação do Karma 
-Ciclos da Vida 
-Ano Pessoal 
-Encarnação Atual
-Karma
-Tendência
-Subtêndencia
-Frequência
-Subfrequência
-Karma causal
+Personalidade Interna , 
+Personalidade Externa ,
+Personalidade Geral ,
+Personalidade Oculta ,
+Desafio ,
+Regência de Vida Anterior ,
+Missão de Vida Atual ,
+Força do Desafio ,
+Força da Missão ,
+Abalo ,
+Desafio Oculto ,
+Idade de Liberação do Karma ,
+Ciclos da Vida ,
+Ano Pessoal ,
+Encarnação Atual ,
+Karma ,
+Tendência ,
+Subtêndencia ,
+Frequência ,
+Subfrequência ,
+Karma causal ,
 Karma geral
 
 ## 🔍 Como Usar
